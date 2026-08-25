@@ -1,7 +1,0 @@
-# 3단계
-git pull # 당겨 내려 받기(깃허브 저장소->내컴퓨터 폴더)
-
-git add .
-git commit -m "Add new feature"
-git push # 밀어 올림(내컴퓨터 폴더->깃허브 저장소)
-
